@@ -1,47 +1,13 @@
-## 🧩 Our Software
+## 🚀 Our Software
 
-<table align="center">
-<tr>
-<td align="center" width="300">
+<div align="center">
 
-### 🎬 Product Demos
-Demonstrations and previews of our software.
-
-<a href="https://www.youtube.com" target="_blank"
-style="
-display:inline-block;
-margin-top:12px;
-padding:10px 20px;
-background:#cc0000;
-color:white;
-text-decoration:none;
-border-radius:8px;
-font-weight:600;
-">
-View on YouTube
+<a href="https://www.youtube.com" target="_blank">
+  <img src="https://img.shields.io/badge/Watch_on-YouTube-red?style=for-the-badge&logo=youtube" />
 </a>
 
-</td>
-
-<td align="center" width="300">
-
-### 🛠 Development Updates
-Behind-the-scenes development insights.
-
-<a href="https://www.youtube.com" target="_blank"
-style="
-display:inline-block;
-margin-top:12px;
-padding:10px 20px;
-background:#333;
-color:white;
-text-decoration:none;
-border-radius:8px;
-font-weight:600;
-">
-Visit Channel
+<a href="https://www.youtube.com" target="_blank">
+  <img src="https://img.shields.io/badge/Our_Software-Channel-black?style=for-the-badge" />
 </a>
 
-</td>
-</tr>
-</table>
+</div>
