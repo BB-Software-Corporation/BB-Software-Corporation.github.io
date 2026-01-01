@@ -1,35 +1,47 @@
-## 🚀 Our Software
+## 🧩 Our Software
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="300">
 
-<a href="https://www.youtube.com" target="_blank"
-style="
-display:inline-block;
-padding:14px 28px;
-margin:10px;
-background:#ff0000;
-color:white;
-text-decoration:none;
-font-weight:600;
-border-radius:10px;
-font-size:16px;
-">
-▶ Watch on YouTube
-</a>
+### 🎬 Product Demos
+Demonstrations and previews of our software.
 
 <a href="https://www.youtube.com" target="_blank"
 style="
 display:inline-block;
-padding:14px 28px;
-margin:10px;
-background:#222;
+margin-top:12px;
+padding:10px 20px;
+background:#cc0000;
 color:white;
 text-decoration:none;
+border-radius:8px;
 font-weight:600;
-border-radius:10px;
-font-size:16px;
 ">
-📦 Our Software Channel
+View on YouTube
 </a>
 
-</div>
+</td>
+
+<td align="center" width="300">
+
+### 🛠 Development Updates
+Behind-the-scenes development insights.
+
+<a href="https://www.youtube.com" target="_blank"
+style="
+display:inline-block;
+margin-top:12px;
+padding:10px 20px;
+background:#333;
+color:white;
+text-decoration:none;
+border-radius:8px;
+font-weight:600;
+">
+Visit Channel
+</a>
+
+</td>
+</tr>
+</table>
